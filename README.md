@@ -133,3 +133,79 @@ Become a high-level, in-demand, well-paid developer by mastering:
 - [ ] Publish final project on GitHub
 - [ ] Deploy live demo on Vercel / Fly.io
 - [ ] Write and post a technical article on Medium
+
+---
+
+# Addional. 🐍 Fast-Track Python for AI/ML — Secondary Language Plan
+
+## 🎯 Goal
+Learn Python as a second language quickly and efficiently to support AI/ML development — specifically for using Hugging Face, fine-tuning models, data processing, and scripting AI workflows.
+
+## 🧭 Who is this for?
+- You already know TypeScript / JavaScript
+- You’re building AI/LLM apps using APIs and want deeper control
+- You don’t want to become a full-time Pythonista — just proficient
+
+---
+
+## ⏱️ Total Duration: ~4 weeks (2 hours/day)
+| Week | Focus Area                         | Outcome                             |
+|------|------------------------------------|-------------------------------------|
+| 1    | Python Basics + Syntax             | Scripts, control flow, functions    |
+| 2    | OOP + Modules + Virtual Envs       | Classes, venv, pip, imports         |
+| 3    | NumPy, Pandas, File I/O            | Data processing + CSV/JSON loading  |
+| 4    | Hugging Face, Transformers, Scripts| Run LLMs, load datasets, CLI tools  |
+
+---
+
+## 📘 Week-by-Week Breakdown
+
+### ✅ Week 1: Python Basics
+- Variables, strings, lists, dicts
+- Conditions, loops, functions
+- CLI input/output
+- 📚 [W3Schools Python Tutorial](https://www.w3schools.com/python/)
+- 🎥 [freeCodeCamp 4hr Course](https://www.youtube.com/watch?v=rfscVS0vtbw)
+
+### ✅ Week 2: OOP, Modules, Virtual Envs
+- Classes and objects
+- Importing modules
+- `venv`, `pip`, requirements.txt
+- 📘 [Python OOP Guide](https://realpython.com/python3-object-oriented-programming/)
+
+### ✅ Week 3: NumPy, Pandas, File I/O
+- Create and manipulate arrays/tables
+- Load and save JSON, CSV, TXT
+- 📚 [NumPy Quickstart](https://numpy.org/doc/stable/user/quickstart.html)
+- 📚 [Pandas 10 min Guide](https://pandas.pydata.org/docs/user_guide/10min.html)
+
+### ✅ Week 4: Hugging Face & AI Scripting
+- Use `transformers` and `datasets` libraries
+- Load pretrained LLMs and tokenizers
+- Inference with `pipeline`, `AutoModel`, `Trainer`
+- 📘 [Hugging Face Course](https://huggingface.co/learn/nlp-course)
+- 📦 [Transformers GitHub](https://github.com/huggingface/transformers)
+
+---
+
+## ✅ Checklist
+- [ ] Install Python 3 + venv
+- [ ] Write simple scripts with control flow
+- [ ] Create and use virtual environments
+- [ ] Work with modules and packages
+- [ ] Process CSV and JSON with Pandas
+- [ ] Create basic plots (matplotlib optional)
+- [ ] Use Hugging Face transformers for text generation
+- [ ] Run a model with your own prompts
+
+---
+
+## 🧠 Bonus: Learn through building
+**Mini-project idea**: Build a Python CLI that loads a model from Hugging Face and responds to questions using your own file as context (RAG lite).
+
+---
+
+By the end of this plan, you’ll be Python-proficient enough to:
+- Build and run ML pipelines
+- Use Hugging Face tools with confidence
+- Extend your AI apps beyond OpenAI APIs
